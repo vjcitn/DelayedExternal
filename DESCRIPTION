@@ -1,0 +1,14 @@
+Package: DelayedExternal
+Title: DelayedArray with external, e.g., HDF5Server or BigQuery, back end
+Description: Define DelayedArray for external, e.g., HDF5Server or BigQuery, back end.
+Version: 0.0.1
+Author: Vince Carey
+Suggests: knitr, SummarizedExperiment, restfulSE
+Depends: rhdf5client, DelayedArray
+Imports: methods
+Maintainer: VJ Carey <stvjc@channing.harvard.edu>
+License: Artistic-2.0
+LazyLoad: yes
+biocViews: Infrastructure, DataRepresentation, Annotation, GenomeAnnotation
+VignetteBuilder: knitr
+RoxygenNote: 6.0.1.9000
