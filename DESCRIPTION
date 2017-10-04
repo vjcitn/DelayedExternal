@@ -1,6 +1,6 @@
-Package: DelayedRemote
-Title: DelayedArray with remote, e.g., HDF5Server or BigQuery, back end
-Description: Define DelayedArray for remote, e.g., HDF5Server or BigQuery, back end.
+Package: RemoteArray
+Title: Delayed?Array with remote, e.g., HDF5Server or BigQuery, back end
+Description: Define array for remote, e.g., HDF5Server or BigQuery, back end.
 Version: 0.0.1
 Author: Vince Carey
 Suggests: knitr, SummarizedExperiment, restfulSE
